@@ -166,12 +166,12 @@ body {
   display: inline-block;
   width: 21px;
   height: 12px;
-  background-image: url('/img/header/vector.svg');
+  background-image: url('img/header/vector.svg');
   margin: 0 5px 0 0;
 }
 
 .header__cabinet:hover:before {
-  background-image: url('/img/header/vector2.svg');
+  background-image: url('img/header/vector2.svg');
 }
 
 .header__cabinet:hover {
@@ -357,7 +357,7 @@ body {
   display: inline-block;
   width: 11px;
   height: 18px;
-  background-image: url('/img/offer/arrow.svg');
+  background-image: url('img/offer/arrow.svg');
   margin: 0 0 0 5px;
   transform: translateY(5px);
 }
@@ -511,7 +511,7 @@ color: #000000;
   display: inline-block;
   width: 10px;
   height: 18px;
-  background-image: url('/img/service/Rectangle.svg');
+  background-image: url('img/service/Rectangle.svg');
   margin: 0 0 0 5px;
   transform: translateY(3px);
 }
@@ -675,7 +675,7 @@ color: #000000;
   width: 10px;
   height: 18px;
   margin: 0 0 0 5px;
-  background: url('/img/place/фото12.svg');
+  background: url('img/place/фото12.svg');
   transform: translateY(4px);
   }
 
@@ -746,7 +746,7 @@ border-radius: 15px;
   appearance: none;
   -moz-appearance: none;
   -webkit-appearance: none;
-  background: url('/img/form/стрелка.svg') no-repeat right;
+  background: url('img/form/стрелка.svg') no-repeat right;
 
   /* border: 2px solid #999;
   border-radius: 3px;
@@ -940,27 +940,27 @@ color: #CC9933;
  }
 
   .footer_social-icon-sof {
-    background-image: url('/img/footer/фото1.svg');
+    background-image: url('img/footer/фото1.svg');
     width: 25px;
     height: 25px;
   }
   .footer_social-icon-twitter {
-    background-image: url('/img/footer/фото2.svg');
+    background-image: url('img/footer/фото2.svg');
     width: 25px;
     height: 25px;
   }
   .footer_social-icon-vk {
-    background-image: url('/img/footer/фото3.svg');
+    background-image: url('img/footer/фото3.svg');
     width: 25px;
     height: 25px;
   }
   .footer_social-icon-facebook {
-    background-image: url('/img/footer/фото4.svg');
+    background-image: url('img/footer/фото4.svg');
     width: 25px;
     height: 25px;
   }
   .footer_social-icon-instagram {
-    background-image: url('/img/footer/фото5.svg');
+    background-image: url('img/footer/фото5.svg');
     width: 25px;
     height: 25px;
   }
